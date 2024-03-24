@@ -1,5 +1,5 @@
 # Face Detection Project
-
+"I undertook this project purely for exercise and to experiment with deep learning."
 This repository contains a comprehensive guide and implementation for a face detection project using TensorFlow and Albumentations for image augmentation. The project is structured as follows:
 
 ### 1. Data Preparation
